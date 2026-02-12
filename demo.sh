@@ -24,5 +24,5 @@ top
 df
 
 free
-
+nproc
 
