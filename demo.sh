@@ -26,5 +26,3 @@ df
 free
 
 
-mkdir shell1
-touch test.sh
